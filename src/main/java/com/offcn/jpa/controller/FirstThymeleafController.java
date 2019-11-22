@@ -13,5 +13,7 @@ public class FirstThymeleafController {
         return "index";
     }
 
-
+    public String DD() {
+        return "kkkk";
+    }
 }
